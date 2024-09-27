@@ -2,11 +2,10 @@
 
 ![MyCloud: Elegant Networking in Swift](nvidia.png)
 
-MyCloud is artificial intelligence (AI) generate response library written in Swift.
+MyCloud is a flexible, scalable database to store, sync, and query data library for mobile development (written in Swift).
 
 - [Features](#features)
 - [Installation](#installation)
-- [NVIDIA API Key](#NVIDIA-API-Key)
 - [Example](#example)
 - [License](#license)
 
@@ -15,6 +14,7 @@ MyCloud is artificial intelligence (AI) generate response library written in Swi
 - [x] Generate responses and outputs based on MyCloud artificial intelligence <br> complex algorithms and machine learning techniques. <br> <br>
   - [x] Automatic retry
   - [x] Synchronized requests
+  - [x] flexible, scalable database to store, sync
 
 ## Installation
 ### CocoaPods
@@ -32,8 +32,6 @@ target 'NvidiaAIExample' do
 end
 
 ```
-## NVIDIA API Key
-To get started with NvidiaAI, get API key at [NVIDIA](https://www.nvidia.com/en-us/ai/).
 
 ## Example
 
