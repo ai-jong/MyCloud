@@ -10,10 +10,8 @@ MyCloud is a flexible, scalable database to store, sync, and query data library 
 - [License](#license)
 
 ## Features
-
-- [x] Generate responses and outputs based on MyCloud artificial intelligence <br> complex algorithms and machine learning techniques. <br> <br>
-  - [x] Flexible, synchronized and scalable database to store the data
-  - [x] Quick setup
+- [x] Flexible, synchronized and scalable database to store the data
+- [x] Quick setup
 
 ## Installation
 ### CocoaPods
