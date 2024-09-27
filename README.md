@@ -20,7 +20,7 @@ MyCloud is a flexible, scalable database to store, sync, and query data library 
 
 [CocoaPods](https://cocoapods.org) is a dependency manager for Cocoa projects.<br> 
 For usage and installation instructions, visit their website.<br> 
-To integrate NvidiaAI into your Xcode project using CocoaPods, <br> specify it in your `Podfile`:
+To integrate MyCloud into your Xcode project using CocoaPods, <br> specify it in your `Podfile`:
 
 ```ruby
 platform :ios, '14.0'
