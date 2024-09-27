@@ -23,19 +23,19 @@ myCloud.write( "folder", merge: true, data: data) { value in
 ### Read 
 
 ```swift
-  let myCloud = MyCloud()
+let myCloud = MyCloud()
 
-   myCloud.read("folder") { ( result : [AnyHashable : Any]) in
-     print( "\(data)" )
-   }
+myCloud.read("folder") { ( result : [AnyHashable : Any]) in
+  print( "\(data)" )
+}
 ```
 ### Watch 
 
 ```swift
-  let myCloud = MyCloud()
+let myCloud = MyCloud()
 
-  myCloud.watch("folder") { ( result : [AnyHashable : Any]) in
-     print( "\(data)" )
-  }
+myCloud.watch("folder") { ( result : [AnyHashable : Any]) in
+  print( "\(data)" )
+}
 ```
 
