@@ -1,6 +1,6 @@
 # MyCloud Examples
 <div align="center">
-  <img src="cloud.png" alt="Image" width="400"/>
+  <img src="cloud.png" alt="Image" width="100%"/>
 </div>
 MyCloud is a flexible, scalable database to store, sync, and query data library for mobile development.
 
