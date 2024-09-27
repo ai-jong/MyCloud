@@ -1,8 +1,8 @@
-# MyCloud
+# MyCloud for iOS
 
 ![MyCloud: Elegant Networking in Swift](nvidia.png)
 
-MyCloud is a flexible, scalable database to store, sync, and query data library for mobile development (written in Swift).
+MyCloud is a flexible, scalable database to store, sync, and query data library for mobile development.
 
 - [Features](#features)
 - [Installation](#installation)
@@ -12,9 +12,8 @@ MyCloud is a flexible, scalable database to store, sync, and query data library 
 ## Features
 
 - [x] Generate responses and outputs based on MyCloud artificial intelligence <br> complex algorithms and machine learning techniques. <br> <br>
-  - [x] Automatic retry
-  - [x] Synchronized requests
-  - [x] flexible, scalable database to store, sync
+  - [x] Flexible, synchronized and scalable database to store the data
+  - [x] Quick setup
 
 ## Installation
 ### CocoaPods
