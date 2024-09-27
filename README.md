@@ -40,20 +40,12 @@ MyCloud's compact syntax and extensive feature set allow requests with powerful 
 ```swift
 import MyCloud
 
-func nvidiaAIExample() {
-    let nvidiaAI = NvidiaAI( apiKey: "nvapi-your nvidia api key");
-                
-     nvidiaAI.request("taiwan in five words or less") { ( result: String) in
-        print("result: \(result)")
-     }
+func myCloudExample() {
+  let myCloud = MyCloud()
         
-     let questions = ["1+1", "1+2", "2+3"]
-     for (index, q) in questions.enumerated() {
-            print("Item \(index): \(q)")
-            nvidiaAI.request("calculate '\(q)'") { ( result: String) in
-                print("result: \(result)")
-            }
-     }
+  let data = ["sys" : ["name" : "jon" ] ]
+  myCloud.write( "folder", merge: true, data: data) { value in     
+  }        
 }
 ```
 
