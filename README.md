@@ -10,7 +10,7 @@ MyCloud is a flexible, scalable database to store, sync, and query data library 
 - [License](#license)
 
 ## Features
-- [x] Flexible, synchronized and scalable database to store the data
+- [x] Flexible, synchronized and scalable database
 - [x] Quick setup
 
 ## Installation
