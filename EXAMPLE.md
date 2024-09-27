@@ -1,6 +1,6 @@
 # MyCloud Examples
 
-![MyCloud: Elegant Networking in Swift](nvidia.png)
+![MyCloud: Elegant Networking in Swift](cloud.png)
 
 MyCloud is a flexible, scalable database to store, sync, and query data library for mobile development.
 
