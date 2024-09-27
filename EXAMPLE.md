@@ -4,7 +4,6 @@
 
 MyCloud is a flexible, scalable database to store, sync, and query data library for mobile development.
 
-- [Features](#features)
 - [Examples](#examples)
 - [Write](#write)
 - [Read](#read)
