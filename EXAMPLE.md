@@ -12,7 +12,6 @@ MyCloud is a flexible, scalable database to store, sync, and query data library 
 
 ## Examples
 
-MyCloud's compact syntax and extensive feature set allow requests with powerful features like automatic retry to be written in just a few lines of code.
 ### Write 
 
 ```swift
