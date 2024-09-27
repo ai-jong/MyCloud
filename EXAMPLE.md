@@ -1,6 +1,4 @@
 # MyCloud Examples
-
-![MyCloud: Elegant in Swift](cloud.png)
 <div align="center">
   <img src="cloud.png" alt="Image" width="400"/>
 </div>
