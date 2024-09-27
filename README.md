@@ -45,7 +45,7 @@ func myCloudExample() {
   }        
 }
 ```
-[more](https://github.com/ai-jong/MyCloud/blob/master/EXAMPLE.md).
+[More examples](https://github.com/ai-jong/MyCloud/blob/master/EXAMPLE.md)
 ## License
 
 MyCloud is released under the MIT license.
