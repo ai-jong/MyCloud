@@ -1,7 +1,9 @@
 # MyCloud Examples
 
 ![MyCloud: Elegant in Swift](cloud.png)
-
+<div align="center">
+  <img src="cloud.png" alt="Image" width="400"/>
+</div>
 MyCloud is a flexible, scalable database to store, sync, and query data library for mobile development.
 
 - [Write](#write)
