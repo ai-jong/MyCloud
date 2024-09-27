@@ -7,6 +7,8 @@ MyCloud is a flexible, scalable database to store, sync, and query data library 
 - [Features](#features)
 - [Installation](#installation)
 - [Examples](#examples)
+- [Write](#write)
+- [Read](#read)
 
 
 ## Examples
@@ -15,14 +17,20 @@ MyCloud's compact syntax and extensive feature set allow requests with powerful 
 ### Write 
 
 ```swift
-import MyCloud
-
-func writeExample() {
-  let myCloud = MyCloud()
-        
   let data = ["sys" : ["name" : "jon" ] ]
+  let myCloud = MyCloud()
+
   myCloud.write( "folder", merge: true, data: data) { value in     
   }        
-}
+```
+### Read 
+
+```swift
+  let myCloud = MyCloud()
+
+   myCloud.read("data") { ( data : [AnyHashable : Any]) in
+     print( "\(data)" )
+   }
+
 ```
 
