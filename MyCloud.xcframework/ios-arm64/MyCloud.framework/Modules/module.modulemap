@@ -1,0 +1,6 @@
+framework module MyCloud {
+  umbrella header "MyCloud.h"
+  export *
+
+  module * { export * }
+}
