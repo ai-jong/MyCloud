@@ -17,7 +17,8 @@ MyCloud is a flexible, scalable database to store, sync, and query data library 
 let data = ["sys" : ["name" : "jon" ] ]
 let myCloud = MyCloud()
 
-myCloud.write( "folder", merge: true, data: data) { value in     
+myCloud.write( "folder", merge: true, data: data) { value in
+  print( "\(value)")
 }        
 ```
 ### Read 
