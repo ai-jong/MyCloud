@@ -43,6 +43,7 @@ func myCloudExample() {
         
   let data = ["sys" : ["name" : "jon" ] ]
   myCloud.write( "folder", merge: true, data: data) { value in     
+    print( "\(value)")
   }        
 }
 ```
