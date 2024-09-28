@@ -8,6 +8,7 @@ MyCloud is an open-source, Swift-based cloud storage library designed to simplif
 - [Installation](#installation)
 - [Example](#example)
 - [License](#license)
+- [Contact](#contact)
 
 ## Features
 - [x] Reading data from cloud storage
@@ -45,7 +46,10 @@ func myCloudExample() {
 }
 ```
 [More Examples](https://github.com/ai-jong/MyCloud/blob/master/EXAMPLE.md)
-## License
 
+## License
 MyCloud is released under the MIT license.
 
+## Contact
+- [x] Author: John W. Blaine
+- [x] Email: john.w.blaine@gmail.com
