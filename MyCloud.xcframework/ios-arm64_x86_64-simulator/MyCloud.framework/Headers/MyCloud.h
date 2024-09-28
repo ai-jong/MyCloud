@@ -16,9 +16,9 @@ NS_ASSUME_NONNULL_BEGIN
 
 @interface MyCloud : UIView <WKScriptMessageHandler, WKNavigationDelegate>
 
-- (void) writeWithFolder:(nullable NSString*)folder merge:(BOOL)m data:(nullable NSDictionary*)item completed:(void(^)(NSDictionary *dx))ds;
-- (void) readWithFolder:(nullable NSString*)folder completed:(void(^)(NSDictionary *dx))ds;
-- (void) watchWithFolder:(nullable NSString*)folder completed:(void(^)(NSDictionary *dx))ds;
+- (void) write:(nullable NSString*)folder merge:(BOOL)m data:(nullable NSDictionary*)item completed:(void(^)(NSDictionary *dx))ds;
+- (void) read:(nullable NSString*)folder completed:(void(^)(NSDictionary *dx))ds;
+- (void) watch:(nullable NSString*)folder completed:(void(^)(NSDictionary *dx))ds;
 
 @end
 
