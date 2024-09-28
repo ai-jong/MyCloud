@@ -28,6 +28,7 @@ use_frameworks!
 
 target 'NvidiaAIExample' do
   pod "MyCloud", :git => 'https://github.com/ai-jong/MyCloud.git', :branch => 'main'
+# pod 'MyCloud', :path => '../MyCloud/Release'
 end
 
 ```
