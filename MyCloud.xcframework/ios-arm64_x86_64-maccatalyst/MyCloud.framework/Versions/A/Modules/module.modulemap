@@ -4,3 +4,8 @@ framework module MyCloud {
 
   module * { export * }
 }
+
+module MyCloud.Swift {
+  header "MyCloud-Swift.h"
+  requires objc
+}

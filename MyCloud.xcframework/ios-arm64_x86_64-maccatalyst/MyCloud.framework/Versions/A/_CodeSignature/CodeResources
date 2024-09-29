@@ -11,18 +11,95 @@
 	</dict>
 	<key>files2</key>
 	<dict>
+		<key>Headers/MyCloud-Swift.h</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			+hXANtMrN60yw/fxOcbvzfDZZQHWsf6kOo5T7wXcM6o=
+			</data>
+		</dict>
 		<key>Headers/MyCloud.h</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			mfj9LJ3WnronYNri/33vvPLwn9mPGgrGIw+Cu6vFW/g=
+			I0SJcpMyJnlyXVNIu5FATwoomiAlZuKVGwuoIxXhEY8=
+			</data>
+		</dict>
+		<key>Modules/MyCloud.swiftmodule/arm64-apple-ios-macabi.abi.json</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			i/LW95EmDO3EZmchiCAziCd3xoFDgV7N96N2FvF5MQk=
+			</data>
+		</dict>
+		<key>Modules/MyCloud.swiftmodule/arm64-apple-ios-macabi.private.swiftinterface</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			z9JbFxkc6xPLruwYc1NmvvOeMmFRNgCHPM1mo0FeURE=
+			</data>
+		</dict>
+		<key>Modules/MyCloud.swiftmodule/arm64-apple-ios-macabi.swiftdoc</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			drxi0BIoG3jIX4LwjbhGEqv9y3afwyEztPMLswI80gc=
+			</data>
+		</dict>
+		<key>Modules/MyCloud.swiftmodule/arm64-apple-ios-macabi.swiftinterface</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			z9JbFxkc6xPLruwYc1NmvvOeMmFRNgCHPM1mo0FeURE=
+			</data>
+		</dict>
+		<key>Modules/MyCloud.swiftmodule/arm64-apple-ios-macabi.swiftmodule</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			jPekJYIiopgeoRJLSQHJqcLLZd3A1VCtQSSocTbHbuY=
+			</data>
+		</dict>
+		<key>Modules/MyCloud.swiftmodule/x86_64-apple-ios-macabi.abi.json</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			i/LW95EmDO3EZmchiCAziCd3xoFDgV7N96N2FvF5MQk=
+			</data>
+		</dict>
+		<key>Modules/MyCloud.swiftmodule/x86_64-apple-ios-macabi.private.swiftinterface</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			g6PrTZVNmpD9HTF2V4M9RoLZeYc2JAHPpXMghPg1VE0=
+			</data>
+		</dict>
+		<key>Modules/MyCloud.swiftmodule/x86_64-apple-ios-macabi.swiftdoc</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			/p5kXpn40eU+u3/603Qjb+mTIUe6X1rMZ4Bn2/YPp3E=
+			</data>
+		</dict>
+		<key>Modules/MyCloud.swiftmodule/x86_64-apple-ios-macabi.swiftinterface</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			g6PrTZVNmpD9HTF2V4M9RoLZeYc2JAHPpXMghPg1VE0=
+			</data>
+		</dict>
+		<key>Modules/MyCloud.swiftmodule/x86_64-apple-ios-macabi.swiftmodule</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			hP0ezMZKxX5D7kZugXBnylsPpQwuFrDxujVMUix8crk=
 			</data>
 		</dict>
 		<key>Modules/module.modulemap</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			Q6ahBydViwHRUwn64CMd0mYwEM41z/CNAki0nozcEbs=
+			e72nR9btmmH5CXvnQ3l1ia10mhw+z5+OWxhCmNV7CKQ=
 			</data>
 		</dict>
 		<key>Resources/Info.plist</key>

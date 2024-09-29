@@ -4,33 +4,154 @@
 <dict>
 	<key>files</key>
 	<dict>
+		<key>Headers/MyCloud-Swift.h</key>
+		<data>
+		jCqkeIbRpARQO9ZD5IbZnMR6eaQ=
+		</data>
 		<key>Headers/MyCloud.h</key>
 		<data>
-		Nxu20mjUyRR1wgzYJRMNPRCpUtk=
+		5qRLavUZspEbridpBG8oXiSii0c=
 		</data>
 		<key>Info.plist</key>
 		<data>
 		CSNMQyREeneAsRGvIQoLMhswE5M=
 		</data>
+		<key>Modules/MyCloud.swiftmodule/arm64-apple-ios-simulator.abi.json</key>
+		<data>
+		dXM4rhooBoKrvK1hfdaehcA/oPs=
+		</data>
+		<key>Modules/MyCloud.swiftmodule/arm64-apple-ios-simulator.private.swiftinterface</key>
+		<data>
+		xjUdnxmMRS9RDjBR7y/26I6kMRc=
+		</data>
+		<key>Modules/MyCloud.swiftmodule/arm64-apple-ios-simulator.swiftdoc</key>
+		<data>
+		KsdATSs0yVU//mKf3PSWbLYcegw=
+		</data>
+		<key>Modules/MyCloud.swiftmodule/arm64-apple-ios-simulator.swiftinterface</key>
+		<data>
+		xjUdnxmMRS9RDjBR7y/26I6kMRc=
+		</data>
+		<key>Modules/MyCloud.swiftmodule/arm64-apple-ios-simulator.swiftmodule</key>
+		<data>
+		gzg73IILgwiLr238sRy39x7ZDSg=
+		</data>
+		<key>Modules/MyCloud.swiftmodule/x86_64-apple-ios-simulator.abi.json</key>
+		<data>
+		dXM4rhooBoKrvK1hfdaehcA/oPs=
+		</data>
+		<key>Modules/MyCloud.swiftmodule/x86_64-apple-ios-simulator.private.swiftinterface</key>
+		<data>
+		6XZ6BaRRKFUpL0t+0R7SCPp+l74=
+		</data>
+		<key>Modules/MyCloud.swiftmodule/x86_64-apple-ios-simulator.swiftdoc</key>
+		<data>
+		H57RtNtgOsuZTEsxxGxK4MDrmj0=
+		</data>
+		<key>Modules/MyCloud.swiftmodule/x86_64-apple-ios-simulator.swiftinterface</key>
+		<data>
+		6XZ6BaRRKFUpL0t+0R7SCPp+l74=
+		</data>
+		<key>Modules/MyCloud.swiftmodule/x86_64-apple-ios-simulator.swiftmodule</key>
+		<data>
+		YAoNwwz4OpdYoOgNeGs1L/IIhW4=
+		</data>
 		<key>Modules/module.modulemap</key>
 		<data>
-		y9/VsY+D75fOA8o91n7LLXM+WQs=
+		tTk+AhuU6EWh21eibkDrZ7xABbU=
 		</data>
 	</dict>
 	<key>files2</key>
 	<dict>
+		<key>Headers/MyCloud-Swift.h</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			+hXANtMrN60yw/fxOcbvzfDZZQHWsf6kOo5T7wXcM6o=
+			</data>
+		</dict>
 		<key>Headers/MyCloud.h</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			mfj9LJ3WnronYNri/33vvPLwn9mPGgrGIw+Cu6vFW/g=
+			I0SJcpMyJnlyXVNIu5FATwoomiAlZuKVGwuoIxXhEY8=
+			</data>
+		</dict>
+		<key>Modules/MyCloud.swiftmodule/arm64-apple-ios-simulator.abi.json</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			i/LW95EmDO3EZmchiCAziCd3xoFDgV7N96N2FvF5MQk=
+			</data>
+		</dict>
+		<key>Modules/MyCloud.swiftmodule/arm64-apple-ios-simulator.private.swiftinterface</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			VT4urX+C19Gk+zn5+24zUb7Y6rigP+ob6m/4njti4pk=
+			</data>
+		</dict>
+		<key>Modules/MyCloud.swiftmodule/arm64-apple-ios-simulator.swiftdoc</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			FWBGe3FAT7SQ3OZPgBVmY4klPlqyJFtOtDLPmN6C2jw=
+			</data>
+		</dict>
+		<key>Modules/MyCloud.swiftmodule/arm64-apple-ios-simulator.swiftinterface</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			VT4urX+C19Gk+zn5+24zUb7Y6rigP+ob6m/4njti4pk=
+			</data>
+		</dict>
+		<key>Modules/MyCloud.swiftmodule/arm64-apple-ios-simulator.swiftmodule</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			VWrpkqRNDPD13JdR0y0bxMxIzihLhnLj+k4/XqUrweA=
+			</data>
+		</dict>
+		<key>Modules/MyCloud.swiftmodule/x86_64-apple-ios-simulator.abi.json</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			i/LW95EmDO3EZmchiCAziCd3xoFDgV7N96N2FvF5MQk=
+			</data>
+		</dict>
+		<key>Modules/MyCloud.swiftmodule/x86_64-apple-ios-simulator.private.swiftinterface</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			s1wjGXtopdPiQRL6kwknXoRc6qn/SUG/L6cIDLCNlbo=
+			</data>
+		</dict>
+		<key>Modules/MyCloud.swiftmodule/x86_64-apple-ios-simulator.swiftdoc</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			tirQNlRZkIjH5hKm/CTludqQYzecrqv0sUel2Aaggeg=
+			</data>
+		</dict>
+		<key>Modules/MyCloud.swiftmodule/x86_64-apple-ios-simulator.swiftinterface</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			s1wjGXtopdPiQRL6kwknXoRc6qn/SUG/L6cIDLCNlbo=
+			</data>
+		</dict>
+		<key>Modules/MyCloud.swiftmodule/x86_64-apple-ios-simulator.swiftmodule</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			uocQgEGZUT3pOI8OnRAuiTBr45+zZn91iJl1YF3l4Cw=
 			</data>
 		</dict>
 		<key>Modules/module.modulemap</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			Q6ahBydViwHRUwn64CMd0mYwEM41z/CNAki0nozcEbs=
+			e72nR9btmmH5CXvnQ3l1ia10mhw+z5+OWxhCmNV7CKQ=
 			</data>
 		</dict>
 	</dict>
