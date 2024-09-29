@@ -6,7 +6,7 @@ MyCloud is a flexible, scalable database to store, sync, and query data library 
 
 - [Write](#write)
 - [Read](#read)
-- [Watch](#watch)
+- [Monitor](#monitor)
 
 
 ## Examples
@@ -15,27 +15,27 @@ MyCloud is a flexible, scalable database to store, sync, and query data library 
 
 ```swift
 let data = ["sys" : ["name" : "jon" ] ]
-let myCloud = MyCloud()
+let cloud = MyCloud()
 
-myCloud.write( "folder", merge: true, data: data) { value in
+cloud.write( "folder", merge: true, data: data) { value in
   print( "\(value)")
 }        
 ```
 ### Read 
 
 ```swift
-let myCloud = MyCloud()
+let cloud = MyCloud()
 
-myCloud.read("folder") { (result : Dictionary) in
+cloud.read("folder") { (result : Dictionary) in
   print( "\(result)" )
 }
 ```
-### Watch 
+### Monitor 
 
 ```swift
-let myCloud = MyCloud()
+let cloud = MyCloud()
 
-myCloud.watch("folder") { (result : Dictionary) in
+cloud.monitor("folder") { (result : Dictionary) in
   print( "\(result)" )
 }
 ```
