@@ -38,11 +38,11 @@ end
 ```swift
 import MyCloud
 
-func myCloudExample() {
-  let myCloud = MyCloud()
+func cloudExample() {
+  let cloud = MyCloud()
         
   let data = ["sys" : ["name" : "jon" ] ]
-  myCloud.write( "folder", merge: true, data: data) { value in     
+  cloud.write( "folder", merge: true, data: data) { value in     
     print( "\(value)")
   }        
 }
