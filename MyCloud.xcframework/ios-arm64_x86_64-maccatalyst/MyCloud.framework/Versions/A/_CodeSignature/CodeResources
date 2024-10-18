@@ -22,7 +22,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			pg0bzeDCbXOrngm4WVa9t9ckqNrpxUzaznvXqWO5HH4=
+			Mvhtb016m2ytFKvJezoPqgdkPTQ3Li1ERTSd8ntKGe8=
 			</data>
 		</dict>
 		<key>Modules/MyCloud.swiftmodule/arm64-apple-ios-macabi.abi.json</key>
@@ -57,7 +57,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			jPekJYIiopgeoRJLSQHJqcLLZd3A1VCtQSSocTbHbuY=
+			jc3fqOBqjAFJnu2U1bj3sqISE2pTFQISaKngBGPshbs=
 			</data>
 		</dict>
 		<key>Modules/MyCloud.swiftmodule/x86_64-apple-ios-macabi.abi.json</key>
@@ -92,7 +92,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			hP0ezMZKxX5D7kZugXBnylsPpQwuFrDxujVMUix8crk=
+			g0lDCu3MiHjOMzO8aX+HNQUaTteTDShA25x79LAbR7g=
 			</data>
 		</dict>
 		<key>Modules/module.modulemap</key>

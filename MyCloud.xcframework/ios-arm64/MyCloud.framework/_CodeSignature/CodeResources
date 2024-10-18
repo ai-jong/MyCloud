@@ -10,7 +10,7 @@
 		</data>
 		<key>Headers/MyCloud.h</key>
 		<data>
-		uyFBU3x4DCkGbEA/z5gP69+PDUw=
+		S67/oRB+dgOHceJB9Tt9E5xF/Rw=
 		</data>
 		<key>Info.plist</key>
 		<data>
@@ -34,7 +34,7 @@
 		</data>
 		<key>Modules/MyCloud.swiftmodule/arm64-apple-ios.swiftmodule</key>
 		<data>
-		PoJbcbnd5BuI3ntJ9mdVY7pC5Fg=
+		g9Dcz0fozPLoG5L3sQ6sBsDr0Gw=
 		</data>
 		<key>Modules/module.modulemap</key>
 		<data>
@@ -54,7 +54,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			pg0bzeDCbXOrngm4WVa9t9ckqNrpxUzaznvXqWO5HH4=
+			Mvhtb016m2ytFKvJezoPqgdkPTQ3Li1ERTSd8ntKGe8=
 			</data>
 		</dict>
 		<key>Modules/MyCloud.swiftmodule/arm64-apple-ios.abi.json</key>
@@ -89,7 +89,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			Ln6VaAysMlPuEzDdXsrxJ1Pg8NlBBtgVE3MtyjjHZGg=
+			O5Ix14/WnYZwf5CcNgRoTOxNdYns7bmau/DMqmNyhAA=
 			</data>
 		</dict>
 		<key>Modules/module.modulemap</key>

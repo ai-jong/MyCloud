@@ -17,9 +17,10 @@ NS_ASSUME_NONNULL_BEGIN
 
 - (void) write:(nullable NSString*)folder merge:(BOOL)m data:(nullable NSDictionary*)item completed:(void(^)(NSDictionary *dx))ds;
 - (void) read:(nullable NSString*)folder completed:(void(^)(NSDictionary *dx))ds;
-- (void) monitor:(nullable NSString*)folder completed:(void(^)(NSDictionary *dx))ds;
-//- (void) query:(nullable NSDictionary*)item;
+- (void) read:(void(^)(NSDictionary *dx))ds;
 
+- (void) monitor:(nullable NSString*)folder completed:(void(^)(NSDictionary *dx))ds;
+- (void) monitor:(void(^)(NSDictionary *dx))ds;
 
 @end
 
